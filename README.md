@@ -4,6 +4,9 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-Models-orange.svg)](https://ollama.ai/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-mv96/detecting__liberalism-black.svg)](https://github.com/mv96/detecting_liberalism)
+
+[View on GitHub](https://github.com/mv96/detecting_liberalism) 🔗
 
 ## Overview 🎯
 
