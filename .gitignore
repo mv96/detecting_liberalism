@@ -1,8 +1,6 @@
 # Ignore API key file
 key.txt
 
-# Ignore all CSV files
-*.csv
 
 # Common Python files to ignore
 __pycache__/
