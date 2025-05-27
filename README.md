@@ -112,4 +112,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[License information to be added]
+Copyright © 2024 Shrey Mishra, Elena Cossu, Jean-Philippe Cointet. All rights reserved.
+
+This work is proprietary and confidential. No part of this project, including but not limited to the code, documentation, data, models, and methodologies, may be reproduced, distributed, or transmitted in any form or by any means, without the prior written permission of ALL copyright holders. Any usage, modification, or distribution of this work requires explicit written consent from ALL three authors: Elena Cossu, Shrey Mishra, and Jean-Philippe Cointet.
+
+Unauthorized copying, modification, merger, publication, distribution, sublicensing, and/or selling of this software and associated documentation is strictly prohibited. No single author or subset of authors may grant permissions independently - unanimous agreement from all three authors is required for any and all uses beyond the scope of this research collaboration.
