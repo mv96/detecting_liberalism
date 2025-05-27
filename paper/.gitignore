@@ -1,0 +1,45 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+
+# PDF files (usually you want to keep the final PDF in version control, but not intermediate builds)
+# Uncomment the next line if you want to ignore PDFs
+# *.pdf
+
+# BibTeX temporary files
+*.bib.bak
+*.bib.sav
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# LaTeX build directories
+_minted*/
+build/
+
+# Overleaf specific
+*.tex.project.vim 
