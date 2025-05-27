@@ -108,7 +108,7 @@ The project includes visualization tools for:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome please contact the authors and make a pull request upon approval.
 
 ## License
 
