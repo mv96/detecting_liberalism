@@ -12,10 +12,29 @@
 *.blg
 *.run.xml
 *.bcf
+*.nav
+*.snm
+*.vrb
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.nlg
+*.nlo
+*.nls
+*.ilg
+*.ind
+*.idx
+*.xdy
+*.tdo
+*.dvi
 
 # PDF files (usually you want to keep the final PDF in version control, but not intermediate builds)
 # Uncomment the next line if you want to ignore PDFs
-# *.pdf
+*.pdf
 
 # BibTeX temporary files
 *.bib.bak
@@ -42,4 +61,10 @@ _minted*/
 build/
 
 # Overleaf specific
-*.tex.project.vim 
+*.tex.project.vim
+
+# Latexmk
+.latexmk/
+
+# Auto-generated files
+auto/ 
