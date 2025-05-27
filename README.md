@@ -2,6 +2,32 @@
 
 A comprehensive text classification system that leverages various language models (including OpenAI and Ollama API) for multi-label classification tasks.
 
+## Contributors
+
+### Elena Cossu
+
+- **Institution**: SciencesPo Paris
+- **Position**: Postdoctoral Researcher at Centre for European Studies and Comparative Politics (CEE)
+- **Research Focus**: Data science and quasi-experimental methods in political science, measuring democratic backsliding in Europe
+- **Email**: elena.cossu@sciencespo.fr
+- **Profile**: [SciencesPo Profile](https://www.sciencespo.fr/centre-etudes-europeennes/en/directory/cossu-elena/)
+
+### Shrey Mishra
+
+- **Institution**: École Normale Supérieure (ENS)
+- **Position**: PhD Student in Machine Learning and Optimization
+- **Research Focus**: Information extraction from scientific articles, AI/ML techniques
+- **Email**: mishra@di.ens.fr
+- **Profile**: [PRAIRIE Institute Profile](https://prairie-institute.fr/chairs/mishra-shrey/)
+
+### Jean-Philippe Cointet
+
+- **Institution**: SciencesPo Paris
+- **Position**: Professor of Sociology and Director of the Open Institute for Digital Transformations
+- **Research Focus**: Computational social sciences, text analysis, network science
+- **Email**: jeanphilippe.cointet@sciencespo.fr
+- **Profile**: [médialab Profile](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/)
+
 ## Project Overview
 
 This project implements a text classification system that can:
